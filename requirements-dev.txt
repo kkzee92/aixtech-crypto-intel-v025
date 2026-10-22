@@ -1,0 +1,3 @@
+# Dev dependencies for research system
+pytest
+ruff
